@@ -9,7 +9,8 @@
 
 
 
-### **What is being actively worked on**:
+  
+  ### **What is being actively worked on**:
 #### 1. Standardizing image size in the png loop
 #### 2. NYC borough dispersion
 #### 3. Kansas city and Joplin, MO dispersion
