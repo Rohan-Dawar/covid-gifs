@@ -6,6 +6,8 @@
 #### These .png files correspond to daily statistics sourced from the [NYTimes GitHub bot](https://github.com/nytimes/covid-19-data)
 #### Functionality is implemented to visualize the USA by state or county, and by raw numbers or rates
 
+
+
 ### **What is being actively worked on**:
 #### 1. Standardizing image size in the png loop
 #### 2. NYC borough dispersion
